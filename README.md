@@ -1,2 +1,2 @@
 # BasesComputacionais2021
-Basic course o Python (in Portuguese)
+Basic course on Python (in Portuguese)
